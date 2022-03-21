@@ -1,1 +1,1 @@
-# Resume <a href="https://awesomeyelim.github.io/resume/"> Here!</a>
+# Resume <a href="https://awesomeyelim.github.io/Resume/"> Here!</a>
